@@ -1,1 +1,1 @@
-imort 
+print('Privet')
